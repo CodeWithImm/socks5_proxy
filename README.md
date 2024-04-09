@@ -1,4 +1,3 @@
-```markdown
 # Python Socks5 Proxy Server
 
 This Python script implements a small Socks5 proxy server that can be used to route traffic between a client and a destination server. It provides a basic level of functionality to understand the fundamentals of Socks5 proxies.
